@@ -1,6 +1,6 @@
 # Dungeon Mania
 > The source code is maintained on GitLab and could be published after 2025 due to UNSW policy. </br>
-Feel free to reach out to me to review the code in person.
+Please reach out to me to review the code in person.
 
 A 2D adventure game with modified maps and entities. <br/>
 [Checkout UML diagram of my implementation here](https://drive.google.com/file/d/1uJqEFKwZRKXHGMQgYjq-tQ8MB0pi_Rb3/view?usp=sharing)
