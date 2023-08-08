@@ -21,3 +21,4 @@ This project mainly focuses on applying design patterns to provide a sufficient 
 - State pattern to handle each type of potion
 - Abstract factory to create goals according to the map specification
 
+![dungeon_show](https://github.com/PhotKosee/dungeon-mania/assets/114990364/3f06c957-9b04-4c09-894c-84b5d2e354f9)
