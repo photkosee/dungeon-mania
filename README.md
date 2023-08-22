@@ -2,12 +2,16 @@
 > Note that the code here is not the complete version of the project. The complete code is maintained on GitLab and could be published after 2025 due to UNSW policy. <br/>
 Please contact me to review the complete version of the code in person.
 
-A 2D adventure game with modified maps and entities. <br/>
 [Checkout UML diagram of my implementation here](https://drive.google.com/file/d/1uJqEFKwZRKXHGMQgYjq-tQ8MB0pi_Rb3/view?usp=sharing)
+
+## Overview
+In Dungeon Mania, you control a Player and have to complete various goals within a series of dungeons to complete the game.
+
+The simplest form of such a puzzle is a maze, where the Player must find their way from the starting point to the exit.
 
 https://github.com/PhotKosee/dungeon-mania/assets/114990364/d60e9f0d-192c-4948-a8c7-fa3d798e2db2
 
-## OOP
+## Features
 Modifying and implementing new functionality from a given MVP
 
 - Refactored the code to improve the quality of the design from code smell
