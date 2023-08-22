@@ -1,0 +1,41 @@
+{
+    "entities": [
+      {
+        "x": 0,
+        "y": 3,
+        "type": "player"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "type": "boulder"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "type": "switch"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "type": "light_bulb_off",
+        "logic": "or"
+      },
+      {
+        "x": 6,
+        "y": 6,
+        "type": "exit"
+      }
+    ],
+    "goal-condition": {"goal":"exit"}
+  }

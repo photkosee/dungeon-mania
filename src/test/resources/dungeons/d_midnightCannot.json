@@ -1,0 +1,25 @@
+{
+    "entities": [
+      {
+        "x": 3,
+        "y": 1,
+        "type": "zombie_toast"
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "type": "player"
+      },
+      {
+        "x": 1,
+        "y": 5,
+        "type": "sword"
+      },
+      {
+        "x": 2,
+        "y": 5,
+        "type": "sun_stone"
+      }
+    ],
+    "goal-condition": {"goal":"exit"}
+  }
